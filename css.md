@@ -4,19 +4,19 @@
 
 ##### 标签选择器
 
-![标签选择器](.\css\标签选择器.png)
+![标签选择器](https://github.com/withoutabc/FE-learning/tree/main/css/标签选择器.png)
 
 ##### 类选择器
 
-![类选择器](.\css\类选择器.png)
+![类选择器](https://github.com/withoutabc/FE-learning/tree/main/css/类选择器.png)
 
 ##### id选择器
 
-![id选择器](.\css\id选择器.png)
+![id选择器](https://github.com/withoutabc/FE-learning/tree/main/css/id选择器.png)
 
 ##### 通配符选择器
 
-![通配符选择器](.\css\通配符选择器.png)
+![通配符选择器](https://github.com/withoutabc/FE-learning/tree/main/css/通配符选择器.png)
 
 ### 字体和文本样式
 
